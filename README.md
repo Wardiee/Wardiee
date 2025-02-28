@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1>👋 Hi, I'm <b>Edward Johnver Dugan</b>!</h1>  
+  <h1 style="font-family: 'Arial Black', sans-serif;">👋 Hi, I'm <b>Edward Johnver Dugan</b>!</h1>  
   <h3>💻 <b>BS in Information Technology</b> | <b>Multimedia Enthusiast</b> | <b>Digital Creator</b></h3>
 
 </div>
