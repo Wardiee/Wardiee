@@ -56,3 +56,6 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 <div align="center" >
  <h1>🦆TOYA</h1>
 </div>
+
+![GitHub Contribution Snake](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
