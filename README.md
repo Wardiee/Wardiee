@@ -50,7 +50,7 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
+<br><br> 
 </div>
 <div align="center" >
   <h1>•🦆TOYA•</h1>
