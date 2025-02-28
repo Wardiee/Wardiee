@@ -1,5 +1,4 @@
 # 💫 About Me:
-<div align="center">
 👋 Hi, I'm Edward Johnver Dugan!<br>💻BS in Information Technology | Multimedia Enthusiast | Digital Creator<br>Passionate about technology, innovation, and creative solutions, I thrive on turning ideas into reality—whether through coding, multimedia editing, or IT solutions. I enjoy tackling challenges, learning new technologies, and refining my skills to stay ahead in the ever-evolving digital world.<br><br>🚀 Driven by curiosity. Powered by creativity. Focused on growth.<br><br>Let’s connect and build something amazing!
 </div>
 
