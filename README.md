@@ -53,7 +53,6 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 
 </div>
 
-###
 <div align="center" >
   <h1>•🦆TOYA•</h1>
 </div>
