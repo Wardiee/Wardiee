@@ -3,17 +3,17 @@
 👋 **Hi, I'm Edward Johnver Dugan!**<br>  
 💻 **BS in Information Technology | Multimedia Enthusiast | Digital Creator**<br>  
 Passionate about technology, innovation, and creative solutions, I thrive on turning ideas into reality—whether through coding, multimedia editing, or IT solutions. I enjoy tackling challenges, learning new technologies, and refining my skills to stay ahead in the ever-evolving digital world.<br><br> 🚀 Driven by curiosity. Powered by creativity. Focused on growth.<br><br>
-
 ## 🌐 Socials:
 <div align="center">
 
-<a href="https://discord.gg/TVckgD27"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="50"/></a>
-<a href="https://www.facebook.com/dward.wardie"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50"/></a>
-<a href="https://www.instagram.com/ejohnver?igsh=cGptMGRkYm16dzVx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="50"/></a>
-<a href="https://www.tiktok.com/@owshiijohnver?_t=ZS-8uIVjQFNX3S&_r=1"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" height="50"/></a>
-<a href="mailto:verjhn@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50"/></a>
+<a href="https://discord.gg/TVckgD27"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=white" height="50"/></a>
+<a href="https://www.facebook.com/dward.wardie"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white" height="50"/></a>
+<a href="https://www.instagram.com/ejohnver?igsh=cGptMGRkYm16dzVx"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white" height="50"/></a>
+<a href="https://www.tiktok.com/@owshiijohnver?_t=ZS-8uIVjQFNX3S&_r=1"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="50"/></a>
+<a href="mailto:verjhn@gmail.com"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
 
 </div>
+
 
 
 
