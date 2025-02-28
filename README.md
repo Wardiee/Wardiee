@@ -6,11 +6,11 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 ## 🌐 Socials:
 <div align="center">
 
-<a href="https://discord.gg/TVckgD27"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=white" height="50"/></a>
-<a href="https://www.facebook.com/dward.wardie"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white" height="50"/></a>
-<a href="https://www.instagram.com/ejohnver?igsh=cGptMGRkYm16dzVx"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white" height="50"/></a>
-<a href="https://www.tiktok.com/@owshiijohnver?_t=ZS-8uIVjQFNX3S&_r=1"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="50"/></a>
-<a href="mailto:verjhn@gmail.com"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
+<a href="https://discord.gg/TVckgD27"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="50" height="50"/></a>
+<a href="https://www.facebook.com/dward.wardie"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="50" height="50"/></a>
+<a href="https://www.instagram.com/ejohnver?igsh=cGptMGRkYm16dzVx"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50" height="50"/></a>
+<a href="https://www.tiktok.com/@owshiijohnver?_t=ZS-8uIVjQFNX3S&_r=1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="50" height="50"/></a>
+<a href="mailto:verjhn@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50"/></a>
 
 </div>
 
