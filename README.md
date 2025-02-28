@@ -5,7 +5,7 @@
 Passionate about technology, innovation, and creative solutions, I thrive on turning ideas into reality—whether through coding, multimedia editing, or IT solutions. I enjoy tackling challenges, learning new technologies, and refining my skills to stay ahead in the ever-evolving digital world.<br><br> 🚀 Driven by curiosity. Powered by creativity. Focused on growth.<br><br>
 
 ## 🌐 Socials:
-<div align="center">
+<div 
 
 <a href="https://discord.gg/TVckgD27"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=white" height="50"/></a>
 <a href="https://www.facebook.com/dward.wardie"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white" height="50"/></a>
