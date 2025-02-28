@@ -8,22 +8,23 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 <div align="center">
 
 <a href="https://discord.gg/TVckgD27">
-  <img src="https://skillicons.dev/icons?i=discord" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="50" height="50" style="filter: invert(56%) sepia(58%) saturate(746%) hue-rotate(191deg) brightness(89%) contrast(92%);"/>
 </a>
 <a href="https://www.facebook.com/dward.wardie">
-  <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="50" height="50" style="filter: invert(29%) sepia(64%) saturate(2586%) hue-rotate(208deg) brightness(94%) contrast(90%);"/>
 </a>
 <a href="https://www.instagram.com/ejohnver?igsh=cGptMGRkYm16dzVx">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50" height="50" style="filter: invert(51%) sepia(86%) saturate(746%) hue-rotate(314deg) brightness(96%) contrast(91%);"/>
 </a>
 <a href="https://www.tiktok.com/@owshiijohnver?_t=ZS-8uIVjQFNX3S&_r=1">
-  <img src="https://skillicons.dev/icons?i=tiktok" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="50" height="50" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(102deg) brightness(104%) contrast(103%);"/>
 </a>
 <a href="mailto:verjhn@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" style="filter: invert(43%) sepia(75%) saturate(747%) hue-rotate(348deg) brightness(92%) contrast(91%);"/>
 </a>
 
 </div>
+
 
 
 
