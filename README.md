@@ -11,12 +11,14 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 
 
 ## 🌐 Socials:
-<div 
-<a href="https://www.facebook.com/dward.wardie"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white" height="50"/></a>
-<a href="mailto:verjhn@gmail.com"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
-<a href="https://www.instagram.com/ejohnver?igsh=cGptMGRkYm16dzVx"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white" height="50"/></a>
-<a href="https://www.tiktok.com/@owshiijohnver?_t=ZS-8uIVjQFNX3S&_r=1"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="50"/></a>
-<a href="https://discord.gg/TVckgD27"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=white" height="50"/></a>
+<div align="center">
+  
+<a href="https://www.facebook.com/dward.wardie" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="50"/></a>
+<a href="mailto:verjhn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
+<a href="https://www.instagram.com/ejohnver?igsh=cGptMGRkYm16dzVx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/></a>
+<a href="https://www.tiktok.com/@owshiijohnver?_t=ZS-8uIVjQFNX3S&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="50"/></a>
+<a href="https://discord.gg/TVckgD27" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50"/></a>
+
 </div>
 
 # 💻 Tech Stack:
@@ -49,12 +51,10 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 ### ✍️ Random Dev Quote
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 </div>
 
 <div align="center" >
- <h1>🦆TOYA</h1>
+ <h1>🦆 TOYA</h1>
 </div>
-
-
