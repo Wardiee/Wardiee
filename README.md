@@ -56,3 +56,15 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 <div align="center" >
  <h1>🦆TOYA</h1>
 </div>
+
+<img src="https://raw.githubusercontent.com/Wardiee/Wardiee/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Wardiee/Wardiee/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Wardiee/Wardiee/output/snake.svg" alt="Snake animation" />
+
+###
