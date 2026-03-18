@@ -14,7 +14,7 @@ Passionate about technology, innovation, and creative solutions, I thrive on tur
 ## 🌐 Socials:
 <div align="center">
   
-<a href="https://www.facebook.com/dward.wardie" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61588463260214" target="_blank">
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white" height="50"/>
 </a>
 <a href="mailto:verjhn@gmail.com">
