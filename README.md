@@ -1,229 +1,27 @@
-<div align="center">
+# 💫 About Me:
+🧑‍💻 About Me<br>Hi! I'm Edward Johnver Dugan, an Information Technology student and digital creator from the Philippines.<br><br>I enjoy combining technology, creativity, and digital media to turn ideas into practical solutions.<br><br>My work and interests include:<br><br>💻 Web Development & IT Solutions<br>🎨 Graphic Design<br>🎬 Photo & Video Editing<br>📱 Social Media Management<br>🎥 Livestream & Multimedia Production<br>🛠️ Technical Support & Troubleshooting<br>🤖 AI-assisted workflows and digital tools<br>I'm currently focused on building my skills in Laravel, PHP, JavaScript, databases, UI/UX, and digital content creation.
 
-# 👋 Hey, I'm **Edward Johnver Dugan**
 
-### 💻 IT Student • Virtual Assistant • Social Media Manager • Digital Creator
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61594217994140) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzz_dward) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edward-johnver-dugan/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Ejohnver) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JVR GAMING) 
 
-**Building with code. Creating with purpose. Learning every day.**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Wardiee&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Wardiee&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Wardiee&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Wardiee&theme=panda&no-frame=false&no-bg=true&margin-w=4)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Dward_Multimedia-111827?style=for-the-badge)](https://github.com/Wardiee)
-[![GitHub](https://img.shields.io/badge/GitHub-Wardiee-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Wardiee)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-111827?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:verjhn@gmail.com)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-Hi! I'm **Edward Johnver Dugan**, an Information Technology student and digital creator from the Philippines.
-
-I enjoy combining **technology, creativity, and digital media** to turn ideas into practical solutions.
-
-My work and interests include:
-
-* 💻 Web Development & IT Solutions
-* 🎨 Graphic Design
-* 🎬 Photo & Video Editing
-* 📱 Social Media Management
-* 🎥 Livestream & Multimedia Production
-* 🛠️ Technical Support & Troubleshooting
-* 🤖 AI-assisted workflows and digital tools
-
-I'm currently focused on building my skills in **Laravel, PHP, JavaScript, databases, UI/UX, and digital content creation**.
-
-> 🚀 **Work Smarter, Not Harder.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Wardiee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Wardiee&icon=0&color=6)](https://visitcount.itsvg.in)
 
-# ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Web & IT
-
-* Laravel / PHP development
-* HTML / CSS / JavaScript
-* MySQL databases
-* Responsive websites
-* CMS development
-* UI implementation
-* IT troubleshooting
-
-</td>
-
-<td width="50%">
-
-### 🎨 Creative & Digital
-
-* Graphic design
-* Photo editing
-* Video editing
-* Audio editing
-* Social media management
-* Content creation
-* Livestream production
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Development
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
-
-</div>
-
-### 🎨 Design & Multimedia
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="Photoshop"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45" alt="After Effects"/>
-
-</div>
-
-### 🧰 Other Tools
-
-`CapCut` · `Premiere Pro` · `Filmora` · `OBS Studio` · `Meta Business Suite` · `Trello` · `Google Workspace` · `Buffer` · `Hootsuite` · `AI Tools`
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🌐 Dward Multimedia
-
-My personal **portfolio + CMS platform** for showcasing my work across IT, multimedia, graphic design, web development, and social media.
-
-**Stack**
-
-`Laravel` `PHP` `Blade` `Tailwind CSS` `Alpine.js` `MySQL`
-
-</td>
-
-<td width="50%">
-
-## ⛪ DOCFI Web Platform
-
-A church web platform project designed to bring announcements, events, sermons, ministries, registrations, attendance, and member management into one digital system.
-
-**Stack**
-
-`Laravel` `PHP` `MySQL` `JavaScript`
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Wardiee&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wardiee&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-
-<br><br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Wardiee&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Currently Learning
-
-```text
-Laravel & PHP          ███████████████░░░░░
-JavaScript             ████████████░░░░░░░░
-Database Development   ████████████░░░░░░░░
-UI/UX                  ███████████░░░░░░░░░
-Social Media           ██████████████░░░░░░
-Multimedia             ████████████████░░░░
-AI Tools               █████████████░░░░░░░
-```
-
----
-
-# 🎯 Current Focus
-
-I'm currently working on:
-
-* 🚀 Improving my **Dward Multimedia portfolio CMS**
-* 🌐 Building practical **Laravel applications**
-* 🎨 Improving **UI/UX and frontend implementation**
-* 📱 Developing my **social media management skills**
-* 🎬 Creating multimedia projects
-* 🤖 Exploring AI-assisted development workflows
-* 📚 Continuously improving my IT skills
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.facebook.com/profile.php?id=61588463260214">
-<img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="mailto:verjhn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/ejohnver">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@owshiijohnver">
-<img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/TVckgD27">
-<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Driven by curiosity. Powered by creativity. Focused on growth."
-
-<br>
-
-### 🦆 TOYA
-
-**Thanks for stopping by!**
-
-⭐ Explore my repositories and follow my journey.
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
